@@ -1,4 +1,4 @@
-# copilot_studio_dio
+# Curso de Copilot Studio da DIO
 Respositório utilizado para mostrar o aprendizado em Microsoft Copilot Studio do Curso da DIO
 
 ## O que aprendi?
